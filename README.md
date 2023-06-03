@@ -2,8 +2,9 @@
 
 # Can Explanations Unveil Bias in AI Systems?
 
-**Author:** Ujjwal Dubey 
 **Affiliation:** Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington
+
+![shap](https://github.com/ujjwaldubey12/Explainable-AI/assets/135392087/afe7b56e-b9ca-4093-a2b5-efa88fc24ac8)
 
 ## Abstract
 The ethical implications and fairness in the AI industry have been subjects of ongoing debate. This project aims to explore whether explainable AI can shed light on fairness issues. We analyze the COMPAS dataset and employ explainable AI tools to investigate if explanations can reveal the bias present in the system.
