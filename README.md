@@ -2,7 +2,7 @@
 
 # Can Explanations Unveil Bias in AI Systems?
 
-**Authors:** Ujjwal Dubey 
+**Author:** Ujjwal Dubey 
 **Affiliation:** Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington
 
 ## Abstract
